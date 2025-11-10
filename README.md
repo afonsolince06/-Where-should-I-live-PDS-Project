@@ -1,4 +1,4 @@
-## -Where-should-I-live-PDS-Project  
+## Where should I live? PDS Project  
 ### A Data Analysis of European Cities for the Programming for Data Science (PDS) Course  
 #### Group Members:  
 - Afonso Fernandes / 20241710
