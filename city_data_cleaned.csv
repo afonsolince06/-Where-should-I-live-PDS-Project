@@ -1,16 +1,16 @@
-Country,City,Population Density,Population,Working Age Population,Youth Dependency Ratio,Unemployment Rate,GDP per Capita,Days of very strong heat stress,Main Spoken Languages,Average Monthly Salary,Average Rent Price,Average Cost of Living,Last Data Update,Individual Languages,Spendable Income
+Country,City,Population Density,Population,Working Age Population ,Youth Dependency Ratio,Unemployment Rate,GDP per Capita,Days of very strong heat stress,Main Spoken Languages,Average Monthly Salary,Average Rent Price,Average Cost of Living,Last Data Update,Individual Languages,Spendable Income
 Austria,Salzburg,243.0,375489,250472.0,20.3,3.0,66689.0,0,German,3200,1100,2186,2023-11-03,['German'],1014
 Austria,Vienna,310.0,2983513,2018818.0,20.1,10.2,55770.0,3,"German, English, Turkish, Serbian",2500,1050,2061,2024-06-15,"['German', 'English', 'Turkish', 'Serbian']",439
 Belgium,Antwerp,928.0,1139663,723396.0,27.7,6.2,57595.0,3,"Dutch, French, Arabic",2609,900,1953,2024-08-09,"['Dutch', 'French', 'Arabic']",656
 Belgium,Bruges,840.0,119765,74600.0,25.63,5.6,63083.0,0,"Dutch, French",2700,1250,1708,2023-10-25,"['Dutch', 'French']",992
 Belgium,Brussels,681.0,3284548,2137425.0,27.5,10.7,62500.0,3,"French, Dutch, Arabic, English",3350,1200,1900,2023-04-22,"['French', 'Dutch', 'Arabic', 'English']",1450
-Belgium,Ghent,552.0,645813,417832.0,24.8,6.2,53311.0,2,"Dutch, French",2400,827,1200,2023-07-17,"['Dutch', 'French']",1200
+Belgium,Gent,552.0,645813,417832.0,24.8,5.3,53311.0,2,"Dutch, French",2400,827,1200,2023-07-17,"['Dutch', 'French']",1200
 Bulgaria,Dobrich,640.0,73895,46359.0,22.85,4.6,10089.92,0,"Bulgarian, Turkish",1200,400,1100,2023-12-30,"['Bulgarian', 'Turkish']",100
 Bulgaria,Sofia,272.0,1553106,1043522.0,21.4,2.3,43563.0,0,"Bulgarian, English, Turkish",1300,450,1100,2024-02-11,"['Bulgarian', 'English', 'Turkish']",200
 Croatia,Split,120.0,354264,230745.0,22.9,6.5,21560.0,1,Croatian,1500,600,1250,2023-09-30,['Croatian'],250
 Croatia,Zagreb,240.0,1217131,800501.0,22.7,2.7,38664.0,4,Croatian,1570,700,1330,2023-10-14,['Croatian'],240
 Cyprus,Lefkosia,130.0,356400,237000.0,23.06,9.6,34907.0,45,"Greek, Turkish, English",1486,700,1350,2024-04-08,"['Greek', 'Turkish', 'English']",136
-Cyprus,Lemesos,190.0,262238,173906.0,23.06,11.2,34907.0,0,"Greek, English, Russian",2500,1400,2300,2023-08-14,"['Greek', 'English', 'Russian']",200
+Cyprus,Lemesos,190.0,262238,173906.0,23.06,11.2,49329.0,0,"Greek, English, Russian",2500,1400,2300,2023-08-14,"['Greek', 'English', 'Russian']",200
 Czechia,Ostrava,499.0,711860,464578.0,23.0,3.7,30105.0,0,Czech,1520,500,1100,2023-09-21,['Czech'],420
 Czechia,Prague,388.0,2231212,1445800.0,26.2,1.4,64996.0,1,"Czech, English",1860,100,1590,2024-12-05,"['Czech', 'English']",270
 Denmark,Copenhagen,598.0,1933919,1280970.0,25.4,6.5,63540.0,0,"Danish, English",4200,2100,2750,2024-03-26,"['Danish', 'English']",1450
@@ -24,7 +24,7 @@ France,Toulouse,4300.0,511684,401425.0,27.31,8.5,46226.0,14,French,2600,800,1600
 Germany,Berlin,304.0,5303922,3481212.0,21.3,4.7,46548.0,3,"German, Turkish, Arabic, English",3200,1220,2200,2023-06-29,"['German', 'Turkish', 'Arabic', 'English']",1000
 Germany,Cologne,1233.0,2002550,1335299.0,20.8,3.9,60310.0,3,"German, English, Turkish",3200,1030,2000,2024-11-23,"['German', 'English', 'Turkish']",1200
 Germany,Dresden,231.0,1343213,818095.0,23.0,3.8,39767.0,0,German,3050,800,1530,2023-08-01,['German'],1520
-Germany,Dusseldorf,1295.0,1554077,1791435.0,21.4,3.3,71238.0,3,German,3200,1100,2050,2024-01-15,['German'],1150
+Germany,Dusseldorf,1295.0,1554077,733794.0,21.4,3.3,71238.0,3,German,3200,1100,2050,2024-01-15,['German'],1150
 Germany,Frankfurt am Main,631.0,2710501,1791435.0,22.0,3.2,69372.0,6,"German, English",3800,1300,2350,2023-02-04,"['German', 'English']",1450
 Germany,Hamburg,461.0,3315036,2181857.0,21.5,3.2,61058.0,0,"German, English, Turkish",3500,1100,2100,2024-07-10,"['German', 'English', 'Turkish']",1400
 Germany,Hanover,444.0,1316467,854349.0,21.0,4.0,54827.0,2,German,2800,900,1800,2023-10-07,['German'],1000
@@ -69,7 +69,7 @@ Spain,Barcelona,1918.0,5034925,3331345.0,22.6,11.0,45016.0,0,"Spanish, Catalan",
 Spain,Madrid,873.0,6882461,4617753.0,23.0,10.8,51020.0,18,Spanish,2271,1100,1589,2023-05-14,['Spanish'],682
 Spain,Malaga,571.0,869096,585608.0,23.5,17.7,27694.0,0,"Spanish, English",2200,1312,1400,2023-11-27,"['Spanish', 'English']",800
 Spain,Seville,330.0,1549641,1037225.0,25.0,21.6,30004.0,53,Spanish,2300,650,1150,2024-09-01,['Spanish'],1150
-Spain,Valencia,722.0,1748142,1162828.0,22.6,13.7,33570.0,5,"Spanish,Valencian",2400,1190,1300,2023-06-04,"['Spanish', 'Valencian']",1100
+Spain,Valencia,548.0,1748142,1162828.0,22.6,13.7,33570.0,5,"Spanish,Valencian",2400,1190,1300,2023-06-04,"['Spanish', 'Valencian']",1100
 Sweden,Gothenburg,245.0,1037675,672152.0,28.2,6.3,49588.0,0,"Swedish, English",2500,1200,2100,2023-03-10,"['Swedish', 'English']",400
 Sweden,Malmo,368.0,680335,436271.0,29.4,9.2,44387.0,0,"Swedish, English",2400,1100,2000,2024-07-07,"['Swedish', 'English']",400
 Sweden,Stockholm,334.0,2344124,1534225.0,28.5,6.2,70950.0,0,"Swedish, English",2700,1400,2300,2024-09-11,"['Swedish', 'English']",400
