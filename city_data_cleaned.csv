@@ -9,13 +9,8 @@ Bulgaria,Dobrich,640.0,73895,46359.0,22.85,4.6,10089.92,0,"Bulgarian, Turkish",1
 Bulgaria,Sofia,272.0,1553106,1043522.0,21.4,2.3,43563.0,0,"Bulgarian, English, Turkish",1300,450,1100,2024-02-11,"['Bulgarian', 'English', 'Turkish']",200
 Croatia,Split,120.0,354264,230745.0,22.9,6.5,21560.0,1,Croatian,1500,600,1250,2023-09-30,['Croatian'],250
 Croatia,Zagreb,240.0,1217131,800501.0,22.7,2.7,38664.0,4,Croatian,1570,700,1330,2023-10-14,['Croatian'],240
-<<<<<<< HEAD
-Cyprus,Lefkosia,130.0,356400,237000.0,23.06,9.6,34907.0,45,"Greek, Turkish, English",1486,700,1350,2024-04-08,"['Greek', 'Turkish', 'English']",136
-Cyprus,Lemesos,190.0,262238,173906.0,23.06,11.2,49329.0,0,"Greek, English, Russian",2500,1400,2300,2023-08-14,"['Greek', 'English', 'Russian']",200
-=======
 Cyprus,Limassol,190.0,262238,173906.0,23.06,11.2,34907.0,0,"Greek, English, Russian",2500,1400,2300,2023-08-14,"['Greek', 'English', 'Russian']",200
 Cyprus,Nicosia,130.0,356400,237000.0,23.06,9.6,34907.0,45,"Greek, Turkish, English",1486,700,1350,2024-04-08,"['Greek', 'Turkish', 'English']",136
->>>>>>> 859ab4f902b333b9adcf029ca0985f6252c85b38
 Czechia,Ostrava,499.0,711860,464578.0,23.0,3.7,30105.0,0,Czech,1520,500,1100,2023-09-21,['Czech'],420
 Czechia,Prague,388.0,2231212,1445800.0,26.2,1.4,64996.0,1,"Czech, English",1860,100,1590,2024-12-05,"['Czech', 'English']",270
 Denmark,Copenhagen,598.0,1933919,1280970.0,25.4,6.5,63540.0,0,"Danish, English",4200,2100,2750,2024-03-26,"['Danish', 'English']",1450
